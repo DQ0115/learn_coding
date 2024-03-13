@@ -1,4 +1,5 @@
-112-2 師大科技系程式語言
-授課教師：蔡芸琤老師
-姓名：丁祺
-系級：科技系二年級
+print("112-2 師大科技系程式語言")
+print("授課教師：蔡芸琤老師")
+print("姓名：丁祺")
+print("系級：科技系二年級")
+[作業一](https://github.com/DQ0115/learn_coding/blob/main/homework_1.ipynb)
